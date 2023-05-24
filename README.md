@@ -9,4 +9,4 @@
   <img alt="Twitter" src="https://camo.githubusercontent.com/beff410f002d375a4f73972727a375857b966263beb60eaa359a13308f6e9626/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f322f32312f564b2e636f6d2d6c6f676f2e7376672f32383870782d564b2e636f6d2d6c6f676f2e7376672e706e67" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/288px-VK.com-logo.svg.png" style="max-width: 100%;" width="22px" align="left">
 </a>
 <hr>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksDev888&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+https://github-readme-stats.vercel.app/api/top-langs/?username=MaksDev888&layout=compact)](https://github.com/anuraghazra/github-readme-stats
